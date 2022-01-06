@@ -1,3 +1,8 @@
 /.env
 /helm/api-platform/charts/*
 !/helm/api-platform/charts/.gitignore
+/.idea/.gitignore
+/.idea/fictional-lamp.iml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
